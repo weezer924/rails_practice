@@ -3,6 +3,6 @@ class ApplicationController < ActionController::Base
         render html:"hello, world!!!"
     end
     def funk
-        render html:"rerer"
+        render html:"rerer!!"
     end
 end
